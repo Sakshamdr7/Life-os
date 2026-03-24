@@ -3,19 +3,26 @@ A customizable personal life dashboard for tracking goals, habits, workouts, fin
 
 A single-page personal dashboard contained in one HTML file with embedded CSS and JavaScript.
 
-## Features
+# Life OS Dashboard
+
+## 🚀 Features
 - Goal tracking
-- ASAP tasks
-- Sprint planning
-- Daily habits
-- Workout tracker
+- Habit tracker
 - Finance tracker
-- Quote vault
+- Quotes
 
-## Tech
-- HTML
-- CSS
-- JavaScript
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
 
-## Run
-Open `life os.html` in your browser.
+## 📸 Screenshots
+<img width="1871" height="972" alt="image" src="https://github.com/user-attachments/assets/c8048c7d-b8a4-45d3-9430-0f25277f8eba" />
+
+
+## 🧠 Future Improvements
+- Backend (Node.js)
+- Database
+- Authentication
+- Deployment
+
+## ▶️ How to Run
+Open life os.html in browser
