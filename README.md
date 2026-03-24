@@ -18,4 +18,4 @@ A single-page personal dashboard contained in one HTML file with embedded CSS an
 - JavaScript
 
 ## Run
-Open `index.html` in your browser.
+Open `life os.html` in your browser.
